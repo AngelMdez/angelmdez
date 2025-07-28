@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ángel Méndez
 
-<!--
-**AngelMdez/angelmdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Frontend Engineer with 7+ years of experience building scalable and user-centric applications with **Vue.js**, **TypeScript**, and modern **CI/CD** workflows.
 
-Here are some ideas to get you started:
+- 🔧 Strong focus on developer experience, clean architecture and maintainability.
+- 🤝 Skilled at bridging technical and non-technical teams — I speak both code and business.
+- 🧠 I explore the use of AI tools (like **Cursor** and **Copilot**) to boost productivity.
+- 🌍 Based in Spain, working remotely and collaboratively across international teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **DocPlanner** (Tech Team - Payments).
+
+<!-- Optional: add contact links -->
+📫 Reach me at angelmendezcampal@gmail.com
+
+> *"Make it simple, but significant."*
