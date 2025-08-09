@@ -11,7 +11,7 @@ Currently working at **DocPlanner** (Tech Team - Payments).
 
 ### 🚀 Projects I'm currently working on
 - **Trainity** – A web and mobile app for fitness trainers and their clients to track progress, workouts, and nutrition, built with React, React Native, TypeScript, Tailwind, and Node.js.
-- **QR Accionable** – An open-source library for generating dynamic QR codes with conditional rules, deep linking, and a portable TypeScript core with React and Vue bindings.
+- **Smart QR** – An open-source library for generating dynamic QR codes with conditional rules, deep linking, and a portable TypeScript core with React and Vue bindings.
 
 ### 🛠 Future projects
 - **Mock API Kit** – A toolkit to spin up realistic REST, GraphQL, and WebSocket mocks with scenarios, network profiles, and a visual panel for development and testing.
