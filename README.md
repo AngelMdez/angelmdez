@@ -1,38 +1,62 @@
-# Angel Manuel Mendez
+<h1 align="center">Angel Manuel Mendez</h1>
 
-I build AI-native product systems: agent workflows, knowledge-heavy apps, and frontend experiences that make complex tooling feel usable.
+<p align="center">
+  Building AI-native product systems, agent workflows, and knowledge-heavy apps.
+</p>
 
-Based in Gijon, Spain. Senior Frontend Engineer by background, now focused on the layer where product engineering, AI workflows, and developer tooling meet.
+<p align="center">
+  Senior Frontend Engineer at <a href="https://github.com/docplanner">Docplanner</a> with 7+ years shipping product experiences, now focused on the layer where product engineering, AI workflows, and developer tooling meet.
+</p>
 
-## What I'm building
+<p align="center">
+  <a href="https://www.linkedin.com/in/angelmdez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-angelmdez-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/AngelMDev"><img alt="X" src="https://img.shields.io/badge/X-@AngelMDev-111111?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="mailto:angelmendezcampal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-### [AI Product Starter](https://github.com/AngelMdez/ai-product-starter)
-An agent-native monorepo starter for teams building real products with AI coding agents.
+<p align="center">
+  <img alt="AI-native products" src="https://img.shields.io/badge/AI--native%20products-111827?style=flat-square">
+  <img alt="Agent workflows" src="https://img.shields.io/badge/Agent%20workflows-1F2937?style=flat-square">
+  <img alt="Knowledge systems" src="https://img.shields.io/badge/Knowledge%20systems-374151?style=flat-square">
+  <img alt="Gijon Spain" src="https://img.shields.io/badge/Gijon%2C%20Spain-0F766E?style=flat-square">
+</p>
 
-It combines docs as the source of truth, reusable specialized skills, repo adoption flows, and validation loops so teams can move fast without losing structure.
+## Now
 
-### [Metavault](https://github.com/AngelMdez/metavault)
-An AI-ready TCG platform exploring scanning, OCR pipelines, knowledge bases, and rules-aware product experiences.
+- Building operating models for teams shipping with AI coding agents
+- Designing product flows where OCR, retrieval, and LLMs meet real UX
+- Turning repository context into reusable docs, skills, and validation loops
 
-It sits at the intersection of frontend UX, structured content, computer vision, and LLM-assisted workflows.
+## Selected builds
 
-## Current focus
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AngelMdez/ai-product-starter">AI Product Starter</a></h3>
+      <p>An agent-native monorepo starter for teams building real products with AI coding agents.</p>
+      <p>Docs as source of truth, reusable skills, repo adoption flows, and validation loops that keep speed and structure aligned.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AngelMdez/metavault">Metavault</a></h3>
+      <p>An AI-ready TCG platform exploring scanning, OCR pipelines, knowledge bases, and rules-aware product experiences.</p>
+      <p>A mix of frontend UX, structured content, computer vision, and LLM-assisted workflows.</p>
+    </td>
+  </tr>
+</table>
 
-- Agent-native developer workflows
-- AI tooling that fits real product teams
-- Knowledge systems with traceable sources
-- Interfaces for AI-heavy features that still feel clear and calm
+## What I care about
+
+- AI that becomes part of the product operating model, not just an extra feature
+- Clear interfaces for complex systems
+- Developer tooling that makes teams faster without making codebases messier
+- Product engineering with strong architecture and practical execution
 
 ## Background
 
-- 7+ years building production web and mobile products
-- Strong foundation in React, Vue, React Native, and TypeScript
-- Interested in practical AI more than hype: systems that help teams ship, reason, and maintain quality
+- React, Vue, React Native, and TypeScript in production environments
+- Product-minded engineering across frontend systems, DX, and delivery quality
+- Practical AI exploration with a bias toward real workflows over hype
 
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/angelmdez/)
-- [X / Twitter](https://x.com/AngelMDev)
-- [Email](mailto:angelmendezcampal@gmail.com)
-
-> Building software where AI is part of the operating model, not just a feature.
+<p align="center">
+  <i>Building software where AI is part of the operating model, not just a feature.</i>
+</p>
