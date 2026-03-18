@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Senior Frontend Engineer at <a href="https://github.com/docplanner">Docplanner</a> with 7+ years shipping product experiences, now focused on the layer where product engineering, AI workflows, and developer tooling meet.
+  Senior Frontend Engineer at <a href="https://github.com/docplanner">Docplanner</a> with 8+ years shipping product experiences, now focused on the layer where product engineering, AI workflows, and developer tooling meet.
 </p>
 
 <p align="center">
