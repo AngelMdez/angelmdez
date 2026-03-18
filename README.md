@@ -1,22 +1,38 @@
-# 👋 Hi, I'm Ángel Méndez
+# Angel Manuel Mendez
 
-I'm a Senior Frontend Engineer with 7+ years of experience building scalable and user-centric applications with **Vue.js**, **React**, **React Native**, **TypeScript**, and modern **CI/CD** workflows.
+I build AI-native product systems: agent workflows, knowledge-heavy apps, and frontend experiences that make complex tooling feel usable.
 
-- 🔧 Strong focus on developer experience, clean architecture, and maintainability.
-- 🤝 Skilled at bridging technical and non-technical teams — I speak both code and business.
-- 🧠 I explore the use of AI tools (like **Cursor** and **Copilot**) to boost productivity.
-- 🌍 Based in Spain, working remotely and collaboratively across international teams.
+Based in Gijon, Spain. Senior Frontend Engineer by background, now focused on the layer where product engineering, AI workflows, and developer tooling meet.
 
-Currently working at **DocPlanner** (Tech Team - Payments).
+## What I'm building
 
-### 🚀 Projects I'm currently working on
-- **Trainity** – A web and mobile app for fitness trainers and their clients to track progress, workouts, and nutrition, built with React, React Native, TypeScript, Tailwind, and Node.js.
-- **Smart QR** – An open-source library for generating dynamic QR codes with conditional rules, deep linking, and a portable TypeScript core with React and Vue bindings.
+### [AI Product Starter](https://github.com/AngelMdez/ai-product-starter)
+An agent-native monorepo starter for teams building real products with AI coding agents.
 
-### 🛠 Future projects
-- **Mock API Kit** – A toolkit to spin up realistic REST, GraphQL, and WebSocket mocks with scenarios, network profiles, and a visual panel for development and testing.
+It combines docs as the source of truth, reusable specialized skills, repo adoption flows, and validation loops so teams can move fast without losing structure.
 
-<!-- Optional: add contact links -->
-📫 Reach me at **angelmendezcampal@gmail.com**
+### [Metavault](https://github.com/AngelMdez/metavault)
+An AI-ready TCG platform exploring scanning, OCR pipelines, knowledge bases, and rules-aware product experiences.
 
-> *"Make it simple, but significant."*
+It sits at the intersection of frontend UX, structured content, computer vision, and LLM-assisted workflows.
+
+## Current focus
+
+- Agent-native developer workflows
+- AI tooling that fits real product teams
+- Knowledge systems with traceable sources
+- Interfaces for AI-heavy features that still feel clear and calm
+
+## Background
+
+- 7+ years building production web and mobile products
+- Strong foundation in React, Vue, React Native, and TypeScript
+- Interested in practical AI more than hype: systems that help teams ship, reason, and maintain quality
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/angelmdez/)
+- [X / Twitter](https://x.com/AngelMDev)
+- [Email](mailto:angelmendezcampal@gmail.com)
+
+> Building software where AI is part of the operating model, not just a feature.
